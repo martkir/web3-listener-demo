@@ -1,6 +1,8 @@
 # web3-listener-demo
 The easiest way to listen to new token transfers and DEX swaps on Ethereum and Base in real-time.
 
+![Web3 Listener Demo](data/web3-listener-demo.gif)
+
 ## Websocket API & Data provider
 
 To listen to new data we use the Websocket API of Syve (https://syve.ai).
